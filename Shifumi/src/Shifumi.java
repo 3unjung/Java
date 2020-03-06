@@ -1,6 +1,6 @@
 public class Shifumi {
     public static void main(String[] args) {
-        System.out.println("Welcome to shifumi game !" +
+        System.out.println("Welcome to shifumi !" +
                 "\nYou play vs the machine." +
                 "\nEnter 1 for rock." +
                 "\nEnter 2 for paper." +
