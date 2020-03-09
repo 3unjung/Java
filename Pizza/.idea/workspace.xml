@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="431633b9-71a4-49be-a005-f6f1660998e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Itzung/src/I_Love_Itzung.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Itzung/src/I_Love_Itzung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Itzung/src/Personnage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Itzung/src/Personnage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Shifumi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shifumi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itezed/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../itezed/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itezed" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Itzung" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -70,9 +70,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="808" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583523250689" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1583523362050">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1583789967531">
+      <screen x="0" y="0" width="1920" height="1048" />
     </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1048@0.0.1920.1048" timestamp="1583789967531" />
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1583523362050" />
     <state width="1877" height="172" key="GridCell.Tab.0.bottom" timestamp="1583523362087">
       <screen x="0" y="0" width="1920" height="1050" />

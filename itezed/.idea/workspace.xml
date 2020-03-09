@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88ed695d-c631-42f6-bac1-d7685cb05a95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pizza/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pizza/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pizza/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pizza/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Itzung/src/I_Love_Itzung.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Itzung/src/I_Love_Itzung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Itzung/src/Personnage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Itzung/src/Personnage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Shifumi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shifumi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nom_que_Margaux_aime" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pizza" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -71,9 +67,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1583523412550" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1583523463362">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1583786634031">
+      <screen x="0" y="0" width="1920" height="1048" />
     </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1048@0.0.1920.1048" timestamp="1583786634031" />
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1583523463362" />
     <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1583488004037">
       <screen x="0" y="0" width="1920" height="1040" />
