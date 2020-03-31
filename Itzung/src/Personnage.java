@@ -36,17 +36,29 @@ public class Personnage {
         list.add(new Blop());
         int size = list.size();
         int choix = random.nextInt(size);
-        System.out.println("Vous allez affronter : " + " " + choix + "!" + " ");
 
-        Scanner keybord = new Scanner(System.in);
-        System.out.println("Vous être prêt ? y/n");
+        if (random.nextInt(size) == 1) {
+            System.out.println("Vous allez affronter un bouftou !");
+        }
 
-        if(keybord.next().equals("y")) {
+        else if (random.nextInt(size) == 2) {
+            System.out.println("Vous allez affronter le Comte Harebourg !");
+        }
+
+        else {
+            System.out.println("Vous allez affronter un blop !");
+        }
+
+        Scanner keyboard = new Scanner(System.in);
+        System.out.println("Vous êtes prêt ? y/n");
+
+        if(keyboard.next().equals("y")) {
             System.out.println("Le combat commence !");
 
         } else {
-            System.out.println("à la prochaine !");
+            System.out.println("Vous prenez la fuite...");
             System.exit( 0);
         }
     }
+
 }

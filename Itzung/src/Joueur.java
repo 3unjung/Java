@@ -2,6 +2,7 @@ public class Joueur {
     int hp = 1000;
     int intelligence = 0;
     int force = 0;
+    int exp = 0;
 
     public void punch() {
         System.out.println("Vous utilisez Coup de poing !");
